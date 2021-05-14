@@ -1,1 +1,0 @@
-print("Han shot first");
