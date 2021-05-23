@@ -1,0 +1,12 @@
+/**
+ * Display the image of a bear
+ */
+
+#imagebox {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/640px-Lion_waiting_in_Namibia.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #99ffcc;
+  /* width: 480px; */
+  height: 360px;
+}
